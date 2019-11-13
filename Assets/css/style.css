@@ -1,0 +1,52 @@
+#name {
+    padding:10px;
+    margin-bottom: 10px;
+    width: 125px;
+    background:#4aaaa5 ;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+#aboutme {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#body{
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+#three{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+#footer{
+    height: 25px;
+    text-align: center;
+    color: #4aaaa5
+}
+
+#profile{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.links a{
+    text-decoration: none;
+    color: #777777
+}
+
+a:hover{
+    color: #4aaaa5;
+}
+
+.container {
+
+}
+
+header {
+
+}
