@@ -3,6 +3,7 @@
     top: 0%;
     width: 100%;
     background: #ffffff;
+    color: #cccccc
 }
 
 #name {
@@ -42,8 +43,8 @@
        
 }
 
-.body{
-    background: url("../images/qbkls.png");
+body{
+    background-image: url("../images/qbkls.png");
 }
 
 #profile{

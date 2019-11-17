@@ -3,6 +3,7 @@
     top: 0%;
     width: 100%;
     background: #ffffff;   
+    color: #cccccc
 }
 
 .Mainbox{
@@ -15,7 +16,7 @@
 }
 
 
-.body{
+body{
     background: url("../images/qbkls.png");
 }
 
